@@ -1,7 +1,3 @@
-Here's an updated draft for the README file of your college portal project on GitHub, incorporating the specified technologies:
-
----
-
 # College Portal Project
 
 ## Overview
@@ -13,12 +9,10 @@ Welcome to the College Portal project! This project aims to provide a comprehens
 The following features are being developed and will be available upon project completion:
 
 ### Mega Menu
-- **Mathura Campus | B.Tech. - CS (DA): VII Sem.**
+
 
 ### Notifications
 - **User Profile**
-  - Abhay
-  - 2115200001
 
 ### Academic Section
 - **Dashboard**
